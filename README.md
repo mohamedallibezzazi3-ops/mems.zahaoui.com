@@ -1,1 +1,49 @@
-# mems.zahaoui.com
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>CEM Djamil Esseddiki Ezzahaoui</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo-container">
+        <img src="images/logo.png" class="logo">
+        <h1>CEM Djamil Esseddiki Ezzahaoui</h1>
+    </div>
+
+    <nav>
+        <a href="#students">صور التلاميذ</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <h2>WELCOME TO</h2>
+    <p>Djamil Esseddiki Ezzahaoui</p>
+</section>
+
+<section id="about" class="section">
+    <h2>عن المدرسة</h2>
+    <p>مدرسة متميز بي اشخاص مرضي.</p>
+</section>
+    </div>
+</section>
+
+<section id="students" class="section">
+    <h2>👨‍🎓 صور التلاميذ</h2>
+    <div class="students">
+
+
+
+        <div class="student-card">
+            <img src="images/student1.png">    <h3>رجل كهف</h3>       <img src="images/student4.png"> <h3>نزيم</h3>   <img src="images/student5.png"><h3>شيشو</h3>
+   
+        </div>
+
+        <div class="student-card">
+            <img src="images/student2.png"> <h3>بوراس</h3>  <img src="images/student6.png">  <h3>لقما</h3>    <img src="images/student7.png"> <h3>بزازي</h3>
+
+            <meta name="google-site-verification" content="djZiZ6WEv9LeIz26W-kmhf4Xxa9LrmIrItE-8_rKxUk" />
+    
+
