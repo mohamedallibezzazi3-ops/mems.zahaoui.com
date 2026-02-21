@@ -44,6 +44,6 @@
         <div class="student-card">
             <img src="images/student2.png"> <h3>بوراس</h3>  <img src="images/student6.png">  <h3>لقما</h3>    <img src="images/student7.png"> <h3>بزازي</h3>
 
-            <meta name="google-site-verification" content="djZiZ6WEv9LeIz26W-kmhf4Xxa9LrmIrItE-8_rKxUk" />
+    # mems.zahaoui.com
     
 
